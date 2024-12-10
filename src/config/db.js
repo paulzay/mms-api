@@ -26,4 +26,3 @@ db.serialize(() => {
 });
 
 module.exports = db;
-username, hashedPassword, email, dob, role, profilePicture
